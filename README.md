@@ -3,7 +3,7 @@
 
 Computer Science Student
 
-Javascript, Python and Java
+C#, Java and C
 
 
 [![Gmail Badge](https://img.shields.io/badge/-pedfelippe@gmail.com-00D69B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedfelippe@gmail.com)](mailto:pedfelippe@gmail.com)
