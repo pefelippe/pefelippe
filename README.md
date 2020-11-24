@@ -11,20 +11,4 @@ Currently as a <strong> Software Testing Intern </strong> at <a href="http://www
 
 </p>
 
-### 🤹 Skills
-
-<p>
-  <strong>
-
-- HTML, CSS, JavaScript
-
-- React
-
-- Material UI
-
-- Python3
-
-- Java
-
- </strong>
 <p>💌 | Don't hesitate to PM me | 💌 </p>
