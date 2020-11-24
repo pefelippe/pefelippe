@@ -26,6 +26,5 @@ Currently as a <strong> Software Testing Intern </strong> at <a href="http://www
 
 - Java
 
-  </strong>
-
- <p>💌 | Don't hesitate to send a PM | 💌 </p>
+ </strong>
+<p>💌 | Don't hesitate to PM me | 💌 </p>
