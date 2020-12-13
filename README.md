@@ -10,5 +10,3 @@ Currently as a <strong> Development Intern </strong> at <a href="https://www.atl
 My goal is to be a complete <strong> Full Stack Dev</strong>. (For now, i'm most studying ReactJS and SQL.)
 
 </p>
-
-<p>💌 | Don't hesitate to PM me | 💌 </p>
