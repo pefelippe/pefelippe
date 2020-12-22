@@ -1,6 +1,6 @@
 # 🌎 Hello, World!
 
-<a href="https://github.com/pefelippe" alt="logo">
+<a href="https://github.com/pefelippe" alt="logo"> </a>
 
 <img src="assets/undraw_hacker_mind_6y85.svg" min-width="400px" max-width="400px" width="400px"  align="right">
 
