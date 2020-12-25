@@ -2,7 +2,7 @@
 
 <a href="https://github.com/pefelippe" alt="logo"> </a>
 
-<img src="assets/undraw_hacker_mind_6y85.svg" min-width="400px" max-width="400px" width="400px"  align="right">
+<img src="assets/undraw_hacker_mind_6y85.svg" min-width="300px" max-width="300px" width="300px"  align="right">
 
 <p align="left">
 🏴‍☠️ Brazilian <strong>Computer Science Student</strong> at <a href="http://www.ufc.br/">UFC</a>.
