@@ -15,11 +15,3 @@
 <p align="left">
 👨‍💻 My goal is to be a <strong> complete </strong> Full Stack Dev.
 </p>
-
-<p align="left">
-(For now, i'm most studying ReactJS and SQL.)
-</p>
-
-<a href="https://www.linkedin.com/in/pedro-felippe/" alt="Linkedin">
-
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=orange)
