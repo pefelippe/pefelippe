@@ -8,6 +8,7 @@
 
 👨‍💻 My goal is to be a <strong> complete </strong> Full Stack Dev
 
-"It is impossible to speak of ethics if we do not speak of freedom. Those who are not free cannot evidently be judged from the point of view of ethics." - MS Cortella
+<!-- "It is impossible to speak of ethics if we do not speak of freedom. Those who are not free cannot evidently be judged from the point of view of ethics." - MS Cortella
 
 ![](https://komarev.com/ghpvc/?username=pefelippe&style=flat-square)
+ -->
