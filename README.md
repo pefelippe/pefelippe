@@ -8,11 +8,16 @@
 
 ## 🤠 Hey, thanks for showing up here 🤠
 
-I'm glad you are here. I mean for real.
+i'm glad you are here.
+for real.
 
-Hope we can have a great time some time :D
+hope we can have a great time  :D
 
-##  About me:
+##  About me
+
+i am a Web Developer that also likes to automatize things, create bots and explore new stuff everyday 
+  
+##  Detailed info
   - <strong> Name </strong>: Pedro Felippe 
   - <strong> Age </strong> : 21
   - <strong> Lives in </strong> : Brasil - Ceará
@@ -21,4 +26,6 @@ Hope we can have a great time some time :D
   - <strong> Working as  </strong>:  Junior System Analyst - <a href="https://www.atlantico.com.br/">Instituto Atlântico</a>
 
 
- 
+## Fun facts
+ - i have a tattoo of The Witcher Signs
+ - love/hate relationship with Valve
