@@ -29,3 +29,4 @@ i am a Web Developer that also likes to automatize things, create bots and explo
 ## Fun facts
  - i have a tattoo of The Witcher Signs
  - love/hate relationship with Valve
+ - the first rule of this profile is: YOU DO NOT talk about this profile (but im not Brad Pitt, so do whatever you want)
