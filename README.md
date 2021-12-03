@@ -15,7 +15,7 @@ hope we can have a great time  :D
 
 ##  About me
 
-i am a Web Developer that also likes to automatize things, create bots and explore new stuff everyday 
+Web Developer that also likes to automatize things, create bots and explore new stuff everyday 
   
 ##  Detailed info
   - <strong> Name </strong>: Pedro Felippe 
