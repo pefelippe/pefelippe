@@ -5,14 +5,6 @@
   
 </div>
 
-
-## 🤠 Hey, thanks for showing up here 🤠
-
-i'm glad you are here.
-for real.
-
-hope we can have a great time  :D
-
 ##  About me
 
 Web Developer that also likes to automatize things, create bots and explore new stuff everyday 
@@ -29,4 +21,6 @@ Web Developer that also likes to automatize things, create bots and explore new 
 ## Fun facts
  - i have a tattoo of The Witcher Signs
  - love/hate relationship with Valve
- - the first rule of this profile is: YOU DO NOT talk about this profile (but im not Brad Pitt, so do whatever you want)
+
+
+hope we can have a great time  :D
