@@ -7,8 +7,6 @@
 </p>
 
 - <strong> Name </strong>: Pedro Felippe
-- <strong> Age </strong> : 21
-- <strong> Lives in </strong> : Brasil - Ceará
-- <strong> Stack </strong> : Node | React
+- <strong> Lives in </strong> : Brasil
 - <strong> University</strong>: Computer Science - <a href="http://www.ufc.br/">UFC</a>
 - <strong> Working as </strong>: Junior System Analyst - <a href="https://www.atlantico.com.br/">Instituto Atlântico</a>
