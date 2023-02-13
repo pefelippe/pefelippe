@@ -1,12 +1,30 @@
-# 🧛 Pedro Felippe
+<div style="
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+">
+
+<p style="
+  font-size: 40px;
+  font-weight: bold
+">🧙‍♂‍ Pedro Felippe</p>
+<p style="
+  font-size: 30px;
+  font-weight: 500">Web Developer</p>
+
+</div>
 
 ## 🤔 Quem sou?
 
 <p>
-  Sou um Web Developer com mais de três anos de experiência em construir soluções inovadoras na web. Possuo profundo conhecimento em tecnologias como React, Node, Typescript e AWS. Atualmente finalizando meu diploma em Ciência da Computação na UFC. Além disso, trabalho como Web Developer no Instituto Atlântico.
+  Sou um Web Developer com mais de três anos de experiência em construir soluções inovadoras na web. Possuo profundo conhecimento em tecnologias como <b>React, Node, Typescript e AWS</b>. Atualmente finalizando meu diploma em Ciência da Computação na UFC.
+  
+  Tabalho como <b>Web Developer </b>no Instituto Atlântico.
 </p>
 
-## 📊Status
+## 📊 Status
 
 ![PeFelippe's GitHub stats](https://github-readme-stats.vercel.app/api?username=pefelippe&show_icons=true&theme=gruvbox)
 
