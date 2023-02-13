@@ -1,10 +1,14 @@
 # 🧛 Pedro Felippe
 
+---
+
 ### 🤔 Quem sou?
 
 <p>
   Sou um Web Developer com mais de três anos de experiência em construir soluções inovadoras na web. Possuo profundo conhecimento em tecnologias como React, Node, Typescript e AWS. Atualmente finalizando meu diploma em Ciência da Computação na UFC. Além disso, trabalho como Web Developer no Instituto Atlântico.
 </p>
+
+---
 
 ### 🧰 Skills
 
