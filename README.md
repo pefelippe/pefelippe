@@ -1,5 +1,3 @@
-]
-
 # 🧛 Pedro Felippe
 
 ## 🤔 About me
@@ -20,4 +18,4 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=pefelippet&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=pefelippe&show_icons=true&theme=gruvbox)
