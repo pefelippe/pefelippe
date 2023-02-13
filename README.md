@@ -1,49 +1,43 @@
-<div style="
-  width: 100vw;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-">
+<!-- Icons  here: https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency- -->
 
-<p style="
-  font-size: 40px;
-  font-weight: bold
-">🧙‍♂‍ Pedro Felippe</p>
-<p style="
-  font-size: 30px;
-  font-weight: 500">Web Developer</p>
+![](https://komarev.com/ghpvc/?username=pefelippe&style=flat-plastic&color=blueviolet)
 
-</div>
+<h1 align='center'>🧙‍♂‍ Pedro Felippe</h1>
 
-## 🤔 Quem sou?
+<h2 align='center'>
 
-<p>
-  Sou um Web Developer com mais de três anos de experiência em construir soluções inovadoras na web. Possuo profundo conhecimento em tecnologias como <b>React, Node, Typescript e AWS</b>. Atualmente finalizando meu diploma em Ciência da Computação na UFC.
-  
-  Tabalho como <b>Web Developer </b>no Instituto Atlântico.
-</p>
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Status
+</h2>
+Sobre mim:
+
+- Sou um <b>Web Developer </b> com mais de três anos de experiência em construir soluções inovadoras na web.
+
+- Possuo profundo conhecimento em tecnologias como <b>React, Node, Typescript e AWS</b>.
+
+- Atualmente finalizando meu diploma em <b>Ciência da Computação</b> na UFC.
+
+- Sou <b>desenvolvedor full-time</b> no <a href="https://www.atlantico.com.br/">Instituto Atlântico</a>.
+
+Não esqueça de visitar meus links:
+
+<h4 align='center'>
+
+  <a href="https://www.pedrofelippe.site">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/pedro-felippe/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</h4>
+
+## Status
 
 ![PeFelippe's GitHub stats](https://github-readme-stats.vercel.app/api?username=pefelippe&show_icons=true&theme=gruvbox)
-
-## 🧰 Skills
-
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
