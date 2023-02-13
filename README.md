@@ -4,13 +4,15 @@
 
 ### 🤔 Quem sou?
 
+---
+
 <p>
   Sou um Web Developer com mais de três anos de experiência em construir soluções inovadoras na web. Possuo profundo conhecimento em tecnologias como React, Node, Typescript e AWS. Atualmente finalizando meu diploma em Ciência da Computação na UFC. Além disso, trabalho como Web Developer no Instituto Atlântico.
 </p>
 
----
-
 ### 🧰 Skills
+
+---
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
