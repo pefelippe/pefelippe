@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=pefelippe&style=flat-plastic&color=blueviolet)
 
+![image](https://media.licdn.com/dms/image/D4D16AQH4Dj0P6B_TMg/profile-displaybackgroundimage-shrink_350_1400/0/1700569636859?e=1709164800&v=beta&t=d91vUA313GI9jMDZInf5IDPNJimFPiHoA-0Dt79GouI)
+
 <h1 align='left'>🧙‍♂‍ Pedro Felippe</h1>
 
 <h3 align='left'>
