@@ -4,18 +4,6 @@
 
 <h1 align='left'>🧙‍♂‍ Pedro Felippe</h1>
 
-
-
-I have been developing digital products since 2018, including web applications, PWAs, websites, e-commerce solutions, and mobile apps that assist organizations in refining their online presence and fostering growth. 
-
-* 🌍  I'm based in Brazil
-* 🖥️  See my website at [Meu Site](http://www.pedrofelippe.site/)
-* 🚀  I'm currently working on [Instituto Atlântico](http://www.atlantico.com.br/)
-* 🧠  I'm learning Go and AWS
-
-
-### Skills
-
 <h3 align='left'>
   
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,6 +15,14 @@ I have been developing digital products since 2018, including web applications, 
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </h3>
+
+Based in Brazil, I have been developing digital products since 2018, including web applications, PWAs, websites, e-commerce solutions, and mobile apps that assist organizations in refining their online presence and fostering growth. 
+
+With a strong emphasis on key areas like user experience (UX), performance, accessibility, security, (CI/CD), databases and API integrations.
+
+I'm currently working on [Instituto Atlântico](http://www.atlantico.com.br/)
+
+
 
 
 ### Links
