@@ -13,16 +13,16 @@
 
 </h3>
 
-Based in Brazil, I have been developing digital products since 2018, including web applications, PWAs, websites, e-commerce solutions, and mobile apps that assist organizations in refining their online presence and fostering growth. 
+I have been developing digital products since 2018, including web applications, PWAs, websites, e-commerce solutions, and mobile apps. 
 
-With a strong emphasis on key areas like user experience (UX), performance, accessibility, security, (CI/CD), databases and API integrations.
+Strong emphasis on key areas like user experience (UX), performance, accessibility, security, CI/CD, databases, WebRTC and API integrations.
 
-I'm currently working on [Instituto Atlântico](http://www.atlantico.com.br/)
-
-
+Web Developer at [Instituto Atlântico](http://www.atlantico.com.br/)
 
 
-### Links
+
+
+### Find me:
 
 <h4 align='left'>
 
