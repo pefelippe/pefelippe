@@ -1,25 +1,5 @@
-# Pedro Felippe 🧙‍♂‍
-
-<h4 align='left'>
-
-  <a href="https://www.pedrofelippe.site">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-    <a href="https://www.linkedin.com/in/pedro-felippe/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</h4>
-
-## About
-
-- Full stack programmer developing digital products since 2018, including landing pages, PWAs, websites, e-commerce solutions, and mobile apps. 
-
-- Strong emphasis on key areas like user experience (UX), performance, accessibility, security, CI/CD, databases, WebRTC and API integrations.
-
-- Based in Brazil
-
-- Web Developer at [Instituto Atlântico](http://www.atlantico.com.br/)
-
+# Pedro Felippe λ‍
+Creating simple, fast and easy-to-use web interfaces since 2018. Based in Brazil. 
 
 ## **Skills wall:**
 
@@ -62,3 +42,16 @@
 <img src="https://img.shields.io/badge/strapi-393359?logo=strapi&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/storybook-393359?logo=storybook&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/shell%20script-4D4577?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/></p>
+
+
+## Find-me here
+
+<h4 align='left'>
+
+  <a href="https://www.pedrofelippe.site">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/pedro-felippe/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</h4>
