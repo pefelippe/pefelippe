@@ -1,5 +1,10 @@
-# Pedro Felippe λ‍
-Creating simple, fast and easy-to-use web interfaces since 2018. Based in Brazil. 
+# Felippe λ‍
+A web developer, with focus is on finding the best ways to enhance user experience and create reusable, scalable, and testable components.
+
+I have a strong background in the JavaScript ecosystem. I'm also diving into AWS and Go for specialization.
+
+I'm constantly seeking new challenges and growth opportunities! :)
+
 
 ## **Skills wall:**
 
@@ -44,14 +49,10 @@ Creating simple, fast and easy-to-use web interfaces since 2018. Based in Brazil
 <img src="https://img.shields.io/badge/shell%20script-4D4577?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 
-## Find-me here
-
-<h4 align='left'>
-
-  <a href="https://www.pedrofelippe.site">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-    <a href="https://www.linkedin.com/in/pedro-felippe/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</h4>
+## Find-me
+<a href="https://www.pedrofelippe.site">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+  <a href="https://www.linkedin.com/in/pedro-felippe/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
