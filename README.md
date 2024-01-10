@@ -1,9 +1,9 @@
 ## Pedro Felippe - Software Developer
 
-Hey There.
+I use my technical skills to build to build user-friendly web apps and create RESTful APIs.
 
-I use my technical skills in JavaScript to build user-friendly web apps and create RESTful APIs with Node and sometimes GraphQL. I'm enthusiastic about leveraging cloud providers to enhance web applications.
+Focused on the JavaScript ecosystem, I craft interfaces with React/Next.js. On the backend, I utilize Node and Golang, manage databases, and handle UI/UX, all integrated with CI/CD pipelines.
 
-Currently working as a Software Developer at Instituto Atlântico.
+In my free time, I've been developing personal projects from scratch, overseeing the backend, frontend, UI/UX, marketing, and more.
 
 Feel free to reach out and explore more about my work and projects.
