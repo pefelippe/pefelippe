@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFzFamfYb7khw/profile-displaybackgroundimage-shrink_350_1400/0/1704929073600?e=1710374400&v=beta&t=GtM6d6Wt-1v74rvfsVVuthD0TlzhwxuPQVJYx24g1Us)](https://github.com/hemantkumar980)
-
 ## Pedro Felippe - Software Developer
 
 I use my technical skills to build to build user-friendly web apps and create RESTful APIs.
