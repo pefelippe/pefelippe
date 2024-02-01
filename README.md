@@ -7,9 +7,3 @@
 Working with Web development for over 5 years. Experience in creating simple, functional and easy-to-use interfaces. Specialized in the Javascript ecosystem, mainly in React and Node. Experience in agile methods and CI/CD tools such as Azure and AWS. Verbal/written communication in advanced English. 
 
 Always maintaining a collaborative approach, I worked with different people and methodologies, without hesitating to adapt and learn something completely new. With this idea, I participated in my first patent, which was published in 2023.
-
-
-## Find me around the web 🌎:
-- [My Website](portfolio-pefelippe.vercel.app)
-- [Linkedin](linkedin.com/in/pedro-felippe)
-
