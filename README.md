@@ -1,11 +1,11 @@
-<h2 align="center">I am Pedro Felippe — Frontend Developer based in Brazil.<h3>
 
+ ## Pedro Felippe - Web Developer
+ 
+#### I have 3+ years of experience in real projects, focused on Frontend development with a focus on React, Next and Typescript. I accumulated practical experience with microfrontends, performance monitoring, automated testing, server-side rendering (SSR), search engine optimization (SEO) and integration with cloud services such as Azure and AWS (Lambda, DynamoDB, S3).
 
  
-<div align="center"> 
-  <span>
-  I have 3+ years of experience in real projects, focused on Frontend development with a focus on React, Next and Typescript. I accumulated practical experience with microfrontends, performance monitoring, automated testing, server-side rendering (SSR), search engine optimization (SEO) and integration with cloud services such as Azure and AWS (Lambda, DynamoDB, S3).
-</p>
+<div align="start"> 
+
   <a href="mailto:pedfelippe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
   </a>
@@ -21,12 +21,12 @@
 
 
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+## ⚒️ Languages-Frameworks-Tools ⚒️
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql,flask" />
+ 
+
 
 
 
