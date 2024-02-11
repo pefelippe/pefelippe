@@ -7,3 +7,5 @@ Web Developer @Atlântico.
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://portfolio-pefelippe.vercel.app/) 
 
 Programming for web since 2018. Enthusiast of the best web & mobile development technologies.
+
+“Compare yourself to who you were yesterday, not to who someone else is today.”
