@@ -2,7 +2,6 @@
  ## Pedro Felippe - Web Developer
 I have 3+ years of experience in real projects, focused on Frontend development with a focus on React, Next and Typescript. I accumulated practical experience with microfrontends, performance monitoring, automated testing, server-side rendering (SSR), search engine optimization (SEO) and integration with cloud services such as Azure and AWS (Lambda, DynamoDB, S3).
 
-## Find me
 <div align="start"> 
   <a href="mailto:pedfelippe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail" />
