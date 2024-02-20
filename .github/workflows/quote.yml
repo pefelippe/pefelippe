@@ -1,0 +1,39 @@
+name: Update Random Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+
+jobs:
+  update_quote:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Fetch Random Quote
+      run: |
+        # Write a script to fetch a random quote from quotes.json
+        # Store the quote in an environment variable
+        # Example:
+        # RANDOM_QUOTE=$(node fetch_quote.js)
+
+    - name: Update README
+      run: |
+        # Replace the existing "Random Quote" section in README.md with the fetched quote
+        # Example:
+        # sed -i 's~#### Random Quote.*~#### Random Quote\n\n$RANDOM_QUOTE~' README.md
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update Random Quote"
+        git push
