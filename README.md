@@ -5,7 +5,7 @@
 Experience developing robust and responsive web applications.
 
 - Working with development since 2020.
-- Creating my own SAAS application. Meet [zaPPi](https://github.com/pefelippe/Zappi).
+- Creating my own SAAS application.
 - Web Developer @Atlântico.
 
 
