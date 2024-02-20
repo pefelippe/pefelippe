@@ -1,14 +1,17 @@
-![wallpaper](/wallpaper.png)
+# 🧙‍♂ Pedro Felippe
 
-# Pedro Felippe 🧙‍♂
-### Who am i?
-- Web Developer @Atlântico
+**`Full Stack Developer`** **`Cloud Enthusiast`** **`Deploys on friday`**
+
+Experience developing robust and responsive web applications.
+
 - Working with development since 2020.
 - Creating my own SAAS application. Meet [zaPPi](https://github.com/pefelippe/Zappi).
+- Web Developer @Atlântico.
+
+
+---
+
 
 ### I like to work with:
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nextjs,express,mysql,flask,azure" />
-<img src="https://skillicons.dev/icons?i=python,nodejs,java,bootstrap,mui,aws,mongodb,figma,vscode,git,github" />
-
-#### Week Quote
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nextjs,express,mysql,azure,docker,python,nodejs,aws,mongodb" />
