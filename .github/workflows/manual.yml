@@ -17,7 +17,7 @@ jobs:
 
       - name: Fetch Random Quote
         run: |
-          RANDOM_QUOTE=$(node fetch_quote.js)
+          RANDOM_QUOTE=$(shuf -n 1 quotes.json)
           echo "::set-output name=RANDOM_QUOTE::$RANDOM_QUOTE"
 
       - name: Update README
