@@ -1,6 +1,14 @@
-# 🧛Pedro Felippe
-- Web Developer @Atlântico
-- Working with development since 2020. 
-- Based in Brazil.
+![wallpaper](/wallpaper.png)
 
-“You must determine where you are going in your life because you cannot get there unless you move in that direction. Random wandering will not move you forward. Instead, It will disappoint and frustrate you and make you anxious and unhappy and hard to get along with (and then resentful, then vengeful, and then worse).”
+# Pedro Felippe 🧙‍♂
+
+- Web Developer @Atlântico
+- Working with development since 2020.
+- Creating my own SAAS application. Meet [zaPPi](https://github.com/pefelippe/Zappi).
+
+### I like to work with:
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nextjs,express,mysql,flask,azure" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,bootstrap,mui,aws,mongodb,figma,vscode,git,github" />
+
+#### Week Quote
