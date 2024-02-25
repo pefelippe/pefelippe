@@ -4,13 +4,7 @@
 
 Experience developing robust and responsive web applications.
 
-- Working with development since 2020.
-- Creating my own SAAS application.
-- Web Developer @Atlântico.
-
-
 ---
-
 
 ### I like to work with:
 
