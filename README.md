@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pefelippe&label=Profile%20views&color=0e75b6&style=flat" alt="pefelippe" /> </p>
-
 # Pedro Felippe
 
 **`Web Developer`** **`Cloud Enthusiast`** **`Deploys on friday`**
