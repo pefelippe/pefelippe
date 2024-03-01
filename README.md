@@ -4,7 +4,7 @@
 
 -  🧙‍♂ Experience developing robust and responsive web applications.
   
-- 👨‍💻 All of my projects are available at **[portfolio-pefelippe.vercel.app](portfolio-pefelippe.vercel.app)**
+- 👨‍💻 All of my projects are available at **[portfolio-pefelippe.vercel.app](https://portfolio-pefelippe.vercel.app/)**
 
 - 📫 Reach me at **pedfelippe@gmail.com**
 
