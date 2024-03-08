@@ -2,11 +2,11 @@
 
 **`Web Developer`** **`Cloud Enthusiast`** **`Deploys on friday`**
 
--  🧙‍♂ Experience developing robust and responsive web applications.
-  
-- 👨‍💻 All of my projects are available at **[portfolio-pefelippe.vercel.app](https://portfolio-pefelippe.vercel.app/)**
+I have been working professionally since 2020 in the full-stack development of web interfaces that impact thousands of people daily. Experience working together with international multidisciplinary times using agile methodologies.
 
-- 📫 Reach me at **pedfelippe@gmail.com**
+Experience in creating responsive interfaces with Javascript, Tailwind, React and TypeScript, consuming REST APIs, microfrontends, automated tests and serverless applications AWS Lambda, DynamoDB, SNS, SQS, S3 and API Gateway.
+
+If you have any questions I can help with, feel free to get in touch here on LinkedIn or via email (pedfelippe@gmail.com).
 
 #
 
