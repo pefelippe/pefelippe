@@ -6,7 +6,7 @@ I have been working professionally since 2020 in the full-stack development of w
 
 Experience in creating responsive interfaces with Javascript, Tailwind, React and TypeScript, consuming REST APIs, microfrontends, automated tests and serverless applications AWS Lambda, DynamoDB, SNS, SQS, S3 and API Gateway.
 
-If you have any questions I can help with, feel free to get in touch here on LinkedIn or via email (pedfelippe@gmail.com).
+If you have any questions I can help with, feel free to get in touch (pedfelippe@gmail.com).
 
 #
 
