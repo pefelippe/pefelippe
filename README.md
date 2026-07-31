@@ -1,14 +1,8 @@
+I like to get things done and automate the boring stuff.
 
-# Pedro Felippe
+I'm a full-stack engineer with 6 years of experience, working mostly with React, TypeScript, and Node. My hands-on experience covers the full development lifecycle: building UIs, databases, authentication, caching, cloud integrations, GraphQL, background jobs, containers, automated testing, and AI integrations.
 
-A full-stack developer based in Fortaleza, Brazil.
-
-Working on web applications using React, Next.js, TypeScript, Node.js, and Python. 
-
-Developing AI-powered solutions with OpenAI SDK and data manipulation using pandas.
-
-Currently exploring AI agents like Cursor to build projects at my spare time.
-
+I'm always down to chat about tech, AI integrations, or interesting new challenges. If you're building something cool, feel free to drop me a message.
 - [github.com/pefelippe](https://github.com/pefelippe)
 - [linkedin.com/in/pedro-felippe](https://linkedin.com/in/pedro-felippe)
 - hello@pedrofelippe.com
