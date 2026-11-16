@@ -83,9 +83,6 @@ const pedro = {
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pefelippe&theme=tokyonight" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pefelippe&theme=tokyonight" />
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pefelippe&theme=tokyonight" />
 
 </div>
