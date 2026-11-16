@@ -50,8 +50,6 @@ I'm a **full-stack engineer with 6 years of experience**, working mostly with **
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pefelippe&theme=tokyonight" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pefelippe&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=pefelippe&theme=tokyonight&hide_border=true" />
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pefelippe&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
