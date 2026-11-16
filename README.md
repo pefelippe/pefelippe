@@ -22,16 +22,52 @@
 
 I'm a **full-stack engineer with 6 years of experience**, working mostly with **React, TypeScript and Node**. I own the whole lifecycle: UIs, databases, auth, caching, cloud integrations, GraphQL, background jobs, containers, automated tests and **AI integrations**.
 
-- 🔭 Building **[Caveguy](https://github.com/pefelippe/Caveguy)**, an AI assistant that takes care of your money, schedule and workouts
-- 🤖 Into LLM agents, automations and developer tooling
-- 💬 Always down to chat about tech, AI or a hard new problem. Building something cool? Drop me a message
-- 🇧🇷 Based in Brazil
+```ts
+const pedro = {
+  role: "Full-stack Engineer",
+  experience: "6+ years",
+  basedIn: "Brazil 🇧🇷",
+  mainStack: ["React", "TypeScript", "Node"],
+  currentlyBuilding: "Caveguy: an AI assistant for your money, schedule and workouts",
+  interests: ["LLM agents", "automation", "developer tooling"],
+  motto: "Get things done. Automate the boring stuff.",
+  openTo: "Chatting about tech, AI or a hard new problem 💬",
+};
+```
 
 ## 🛠️ Tech stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,graphql,tailwind,postgres,redis,prisma,docker,aws,vercel,git,python&perline=8" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,python" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions,git" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧪 Testing</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,vitest" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+      <img src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured projects
 
