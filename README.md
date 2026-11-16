@@ -35,21 +35,20 @@ I'm a **full-stack engineer with 6 years of experience**, working mostly with **
 
 ## 🚀 Featured projects
 
-<div align="center">
-
-<a href="https://github.com/pefelippe/Caveguy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pefelippe&repo=Caveguy&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/pefelippe/Scrible"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pefelippe&repo=Scrible&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/pefelippe/feature-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pefelippe&repo=feature-showcase&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/pefelippe/MeuPedido"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pefelippe&repo=MeuPedido&theme=tokyonight&hide_border=true" /></a>
-
-</div>
+| Project | What it does | Stack |
+|---|---|---|
+| 🦴 **[Caveguy](https://github.com/pefelippe/Caveguy)** | AI personal assistant: send a message and Brutus handles your money, schedule and workouts | TypeScript · AI · WhatsApp/Telegram |
+| 🩺 **[Scrible](https://github.com/pefelippe/Scrible)** | AI-enhanced visit notes for home healthcare clinicians, with transcription linked to patient records | TypeScript · AI |
+| 🎬 **[feature-showcase](https://github.com/pefelippe/feature-showcase)** | Claude skill that generates screenshots and voice-over videos of your features | JavaScript · Claude |
+| 🛒 **[MeuPedido](https://github.com/pefelippe/MeuPedido)** | Give your store an online presence without expensive fees | TypeScript · React |
+| 🎨 **[ZapUI](https://github.com/pefelippe/ZapUI)** | My own design system | TypeScript · React |
 
 ## 📊 GitHub stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pefelippe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pefelippe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pefelippe&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pefelippe&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=pefelippe&theme=tokyonight&hide_border=true" />
 
