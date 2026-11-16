@@ -37,7 +37,7 @@ I'm a **full-stack engineer with 6 years of experience**, working mostly with **
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🦴 **[Caveguy](https://github.com/pefelippe/Caveguy)** | AI personal assistant: send a message and Brutus handles your money, schedule and workouts | TypeScript · AI · WhatsApp/Telegram |
+| 🦴 **[Caveguy](https://github.com/pefelippe/Caveguy)** | AI personal assistant: send a message and Brutus handles your money, schedule and workouts | TypeScript · AI |
 | 🩺 **[Scrible](https://github.com/pefelippe/Scrible)** | AI-enhanced visit notes for home healthcare clinicians, with transcription linked to patient records | TypeScript · AI |
 | 🎬 **[feature-showcase](https://github.com/pefelippe/feature-showcase)** | Claude skill that generates screenshots and voice-over videos of your features | JavaScript · Claude |
 | 🛒 **[MeuPedido](https://github.com/pefelippe/MeuPedido)** | Give your store an online presence without expensive fees | TypeScript · React |
